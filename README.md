@@ -2,7 +2,7 @@
 [Click to Use The Tool](https://yuhanchao.github.io/tiles_inspector/)
 This is an easy way to check how your tileset would look!
 
-![Tileset Inspector Example Image](tile_tool_example.png)
+![Tileset Inspector Example Image](assets/tile_tool_example.jpeg)
 ## 📌How to Use📌
 1. **Upload your tileset**: Use the file picker to load your spritesheet.
 2. **Set Tile Size**: Enter the pixel size of your single tile.
