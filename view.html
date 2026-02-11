@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tile Inspector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h2>Tile Inspector</h2>
+
+    <div class="controls">
+        <div>
+            <label>Upload Set:</label><br>
+            <input type="file" id="upload" accept="image/*">
+        </div>
+
+        <div>
+            <label>Tile Size (px):</label><br>
+            <input type="number" id="tileSize" value="16">
+        </div>
+
+        <div>
+            <label>Row x Col:</label><br>
+            <input type="number" id="row_num" value="3" step="3">
+            <label>x</label>
+            <input type="number" id="col_num" value="3" step="3">
+        </div>
+
+
+    </div>
+
+    <div class ="canvas-container"> 
+        <div class = "scroll-box">
+            <canvas id="tiles_display" width = "64"></canvas>
+        </div>
+
+        <canvas id="canvas" width="384" height="384"></canvas>
+    </div>
+    
+    <div>
+        <button type="submit" onClick="clear_main_canvas()">CLEAR</button>
+        <button type="submit" onclick="back_one_step()">BACK</button>
+    </div>
+    
+    
+    <script src="display.js"></script>
+</body>
+</html>
