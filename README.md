@@ -1,5 +1,5 @@
 # Tileset Inspector Tool
-[Click to Use The Tool](https://yuhanchao.github.io/tiles_inspector/)
+[Click to Use The Tool](https://yuhanchao.github.io/tileset_inspector/)
 This is an easy way to check how your tileset would look!
 
 ![Tileset Inspector Example Image](assets/tile_tool_example.jpeg)
