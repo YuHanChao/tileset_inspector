@@ -1,6 +1,6 @@
-# Tileset Inspector Tool
-[Click to Use The Tool](https://yuhanchao.github.io/tileset_inspector/)
-This is an easy way to check how your tileset would look!
+# Tileset Checker Tool
+[Click to Use The Tool](https://yuhanchao.github.io/tileset_checker/)
+**A fast and easy way to check how your tileset would look!**
 
 ![Tileset Inspector Example Image](assets/tile_tool_example.jpeg)
 ## 📌How to Use📌
@@ -12,4 +12,4 @@ This is an easy way to check how your tileset would look!
    - Back: Use "BACK" to remove the last tile you placed. 
    - Clear: Use "CLEAR" to clean up and start over.
 
-Hope this little tool would be useful to someone!🥰 You can have fun with the tileset I created, too.💫
+Hope this little tool would be useful to someone! You can have fun with the tileset I created, too.💫
